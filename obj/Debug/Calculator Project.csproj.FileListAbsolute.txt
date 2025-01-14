@@ -1,0 +1,21 @@
+C:\Users\hp\source\repos\Calculator Project\bin\Debug\Calculator Project.exe.config
+C:\Users\hp\source\repos\Calculator Project\bin\Debug\Calculator Project.exe
+C:\Users\hp\source\repos\Calculator Project\bin\Debug\Calculator Project.pdb
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.exe
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator Project.pdb
+C:\Users\hp\source\repos\Calculator Project\obj\Debug\Calculator_Project.Calculator.resources
+D:\myprojects\projects\Calculator Project\bin\Debug\Calculator Project.exe.config
+D:\myprojects\projects\Calculator Project\bin\Debug\Calculator Project.exe
+D:\myprojects\projects\Calculator Project\bin\Debug\Calculator Project.pdb
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator Project.csproj.AssemblyReference.cache
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator_Project.Calculator.resources
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator Project.csproj.GenerateResource.cache
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator Project.csproj.CoreCompileInputs.cache
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator Project.exe
+D:\myprojects\projects\Calculator Project\obj\Debug\Calculator Project.pdb
